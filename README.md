@@ -1,4 +1,4 @@
-# ML-CENTUM-PROJECT
+# ML-CENTUM-PROJECT-Image processing Denoising of medical image
 Image processing Denoising of medical image using CNN:-
 Aimport tensorflow as tf
 import matplotlib.pyplot as plt
